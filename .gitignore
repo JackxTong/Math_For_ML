@@ -1,2 +1,5 @@
 *venv/
 FashionMNIST/
+*.csv
+Linnaeus_5_32X32*
+data/
